@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:src="@drawable/feminist"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:id="@+id/women_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:onClick="womenFunction"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+         />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/policemain"
+        android:onClick="policeFunction"
+        android:id="@+id/police_image"
+        android:soundEffectsEnabled="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+         />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/hospitalsmain"
+        android:layout_below="@+id/women_image"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="20dp"
+        android:onClick="hospitalsFunction"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/hospital_image"
+         />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/gps"
+        android:id="@+id/gps_image"
+        android:onClick="gpsFunction"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/police_image"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/map"
+        android:id="@+id/map_image"
+        android:onClick="mapFunction"
+        android:layout_below="@+id/hospital_image"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/contacts"
+        android:onClick="sqliteDatabase"
+        android:layout_below="@+id/gps_image"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+         />
+
+</RelativeLayout>

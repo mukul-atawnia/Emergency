@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="140dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Name of Organization"
+        android:layout_marginTop="10dp"
+        android:id="@+id/name_of_organisation"
+        android:textColor="#000000"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Phone Number"
+        android:gravity="center"
+        android:id="@+id/phone_number_of_organization"
+        android:textColor="#000000"
+        android:background="#eee8dc"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000"
+        />
+
+</LinearLayout>

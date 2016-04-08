@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">Emergency</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="hospitals">
+        <item>Aakash Hospital</item>
+        <item>Aashlok Hospital</item>
+        <item>Adams Medicare</item>
+        <item>Aditya Verma Medical Centre</item>
+        <item>Agarwal Medical Centre</item>
+        <item>Amar Leela Hospital</item>
+        <item>Amit Nursing Home</item>
+        <item>Anand Hospital</item>
+        <item>A-One Hospital</item>
+        <item>Ashok Nursing Home</item>
+        <item>Ayushman Hospital</item>
+        <item>Banarasidass Institute Of Medical Science</item>
+        <item>Bansal Hospital And Research Centre</item>
+        <item>Bansal Hospital (Unit Of Namedi Hospital Pvt Ltd)</item>
+        <item>Batra Hospital And Medicalresearch Centre</item>
+        <item>Behl  Hospital</item>
+        <item>Bhagat Hospital</item>
+        <item>Bhagwati Hospital (Unit Of Sarvodya Health Foundation)</item>
+        <item>Bhatia Global Hospital And Endosurgery Institute</item>
+        <item>Bohras Smile Dental Clinic</item>
+        <item>Brahm Shakti Hospital And Research Centre</item>
+        <item>Capital Nursing Home</item>
+        <item>Centre For Sight (East)</item>
+        <item>Centre For Sight (New Delhi-South)</item>
+        <item>Chaudhary Eye Centre And Laser Vision</item>
+        <item>Chikitsa Hospital</item>
+        <item>City Hospital</item>
+        <item>Deepak Memorial Hospital And Medical Research Centre</item>
+        <item>Delhi Heart And Lung Institute</item>
+        <item>Delhi Heart Hospital</item>
+        <item>Devki Devi Foundation</item>
+        <item>Dharamshila Cancer Hospital And Research Centre</item>
+        <item>Dr.Gupta Nursing Home And Hospital</item>
+        <item>Dr.Vedprakash Kohli Medical Centre(Indraprastha Apollo Satellite Clinic)</item>
+        <item>Durga Hospital</item>
+        <item>East West Medical Centre</item>
+        <item>Eden Hospital Pvt Ltd</item>
+        <item>Escorts Heart Institute And Research Centre</item>
+        <item>Family Hospital Private Limited</item>
+        <item>Fortis Flt.Lt.Rajan Dhall Hospital</item>
+        <item>Fortis La Femme-Sunrise Medicare Pvt Ltd</item>
+        <item>G.M.Modi Hospital</item>
+        <item>Gandhi Nursing Home</item>
+        <item>Ganga Xray Clinic</item>
+        <item>Garg Hospital</item>
+        <item>Goyal Eye Institute</item>
+        <item>Goyal Hospital And Urology Centre</item>
+        <item>Gupta Nursing Home</item>
+        <item>Handa Nursing Home</item>
+        <item>Hans Charitable Hospital</item>
+        <item>Healing Touch Hospital ( New Delhi)</item>
+        <item>Holy Angels Hospital</item>
+        <item>Indian Institute Of Opthalmology</item>
+        <item>Indraprastha Apollo Hospital</item>
+        <item>J.K.Hospital</item>
+        <item>Jain Hospital</item>
+        <item>Jaipur Golden Hospital</item>
+        <item>Jeevan Anmol Hospital</item>
+        <item>Jeevan Jyoti Clinic And Hospital</item>
+        <item>Jeevan Jyoti Clinic And Nursing Home</item>
+        <item>Jeewan Mala Hospital Pvt.Ltd</item>
+        <item>Jeewan Nursing Home And Hospital</item>
+        <item>Jessa Ram Hospital</item>
+        <item>Jms Batra Hospital</item>
+        <item>Kalra Hospital And Shri Ram Heart Institute And Research Centre</item>
+        <item>Kantoor Maternity And Medical Centre</item>
+        <item>Kapoor Medical Centre</item>
+        <item>Kartik Nursing Home And Urology Centre</item>
+        <item>Kesar Hospital</item>
+        <item>Khandelwal Hospital And Urology Centre</item>
+        <item>Khetarpal Hospital</item>
+        <item>Khetarpal Nursing Home</item>
+        <item>Kolmet Hospital And Medical Research Centre</item>
+        <item>Krishna Hospital</item>
+        <item>Kuber Hospital</item>
+        <item>Kukreja Hospital And Heart Centre</item>
+        <item>Lata Hospital</item>
+        <item>Lok Clinic</item>
+        <item>Lotus Hospital</item>
+        <item>M.M.R. Eye Institute</item>
+        <item>M.K.W.Hospital (Mai Kamliwali Jankalyan Hospital And Research Centre)</item>
+        <item>M.P. Heart Centre</item>
+        <item>M/S Balaji Medical And Diagnostic Research Centre</item>
+        <item>Makkar Medical Centre</item>
+        <item>Malik Radix Health Care Pvt Ltd</item>
+        <item>Mata Chanan Devi Hospital</item>
+        <item>Max Healthcare Institute Limited (Pancheel Park)</item>
+        <item>Max Healthcare Institute Limited (Pitampura)</item>
+        <item>Max Super Speciality Hospital (Saket)</item>
+        <item>Med First Ent And Healthcare Pvt.Ltd</item>
+        <item>Metro Hospital And Heart Institute</item>
+        <item>Mohinder Hospital</item>
+        <item>Monga Medical Centre</item>
+        <item>Moolchand Kharaiti Ram Trust</item>
+        <item>National Heart Institute</item>
+        <item>Navjyoti Eye Centre</item>
+        <item>Nazar Kanwar Surana Hospital</item>
+        <item>Netrayatan</item>
+        <item>New Life Hospital</item>
+        <item>Nijhara Hospital Pvt. Ltd</item>
+        <item>Nishit Bohras Dental Clinic</item>
+        <item>Northex Stone Clinic</item>
+        <item>Northpoint Hospitals Pvt.Ltd</item>
+        <item>Nulife Hospital</item>
+        <item>Nu-Tech Mediworld</item>
+        <item>Orchid Hospital And Heart Centre</item>
+        <item>Orthonova Hospital</item>
+        <item>Panchsheel Hospital Pvt. Ltd</item>
+        <item>Park Hospita</item>
+        <item>Parnami Orthopaedic Centre</item>
+        <item>Parnami Orthopaedic Hospital And Joint Replacement Centre</item>
+        <item>Pauls Nursing Home</item>
+        <item>Pushpanjali Medical Centre</item>
+        <item>Pushpawati Singhania Research Institute</item>
+        <item>R.G. Stone Urological Research Institute</item>
+        <item>R.G. Stone Urological Research Institute(Kailash)</item>
+        <item>Rajiv Gandhi Cancer Inst. And Research Centre</item>
+        <item>Ramlal Kundanlal Orthopaedic Hospital And R.K. Maternity Home</item>
+        <item>Rockland Hospital</item>
+        <item>Sahi Hospital</item>
+        <item>Sama Nursing Home</item>
+        <item>Sant Parmanand Hospital</item>
+        <item>Saraswati Nursing Home</item>
+        <item>Saroj Hospital</item>
+        <item>Sarvodaya Hospital And Research Centre</item>
+        <item>Satya Bhama Hospital</item>
+        <item>Sawan Neelu Angels Nursing Home</item>
+        <item>Sehgal Nursing Home</item>
+        <item>Shanti Mukand Hospital</item>
+        <item>Shanti Nursing Home Ltd.</item>
+        <item>Sharma Nursing Home And Hospital(Kailash Colony)</item>
+        <item>Shree Jeevan Hospital</item>
+        <item>Shri Balaji Hospital Pvt.Ltd</item>
+        <item>Shri Ram Singh Hospital And Heart Institute</item>
+        <item>Shroff Eye Centre</item>
+        <item>Shubham  Hospital</item>
+        <item>Siddhant Hospital</item>
+        <item>Silver Line Nursing Home</item>
+        <item>Singhal Nursing Home</item>
+        <item>Sir Ganga Ram Hospital</item>
+        <item>Sitaram Bhartia Institute Of Science And Research</item>
+        <item>Sonia Hospital</item>
+        <item>South Point Hospital</item>
+        <item>Spring Meadows Hospital Pvt. Ltd</item>
+        <item>Springdales Medical Centre</item>
+        <item>Sri Balaji Action Medical Institute</item>
+        <item>St.Stephens Hospital</item>
+        <item>Sujan Mohinder Hospital</item>
+        <item>Sukhda Hospital</item>
+        <item>Sunder Lal Jain Hospital</item>
+        <item>Sunetra Eye Centre</item>
+        <item>Sunil Hospital And Nursing Home</item>
+        <item>Sunil Memorial Nursing Home</item>
+        <item>Surya Hospital</item>
+        <item>Swasthik Medical Centre</item>
+        <item>Swastik Hospital</item>
+        <item>Talwar Medical Centre</item>
+        <item>Taneja Hospital</item>
+        <item>The City Clinic</item>
+        <item>Tirath Ram Shah Hospital</item>
+        <item>Tirupati Medical Centre</item>
+        <item>Tirupati Stone Centre And Hospital</item>
+        <item>Tyagi Nursing Home</item>
+        <item>Usha Memorial Orthopadic Centre</item>
+        <item>Vardaan Hospital</item>
+        <item>Venu Eye Institute And Research Centre</item>
+        <item>Vimhans (Vidyasagar Institute Of Mental Health And Neuro Science)</item>
+        <item>Vision Care Centre</item>
+        <item>Vision Eye Centre</item>
+        <item>Visitech Eye Centre</item>
+        <item>Vohra Nursing Home</item>
+    </string-array>
+
+    <string-array name="addresses">
+
+        <item>90/43,Malviya Nagar, New Delhi-110017</item>
+        <item>25-A, Block Ab,Community Centre, Safdarjung Enclave,New Delhi-110029</item>
+        <item>3663, Netaji Subhash Marg, Darya Ganj, New Delhi-110002</item>
+        <item>32 Chitra Vihar Vikas Marg, Bhd. Laxmi Nagar, Delhi-110092</item>
+        <item>E-243, Greater Kailash Part-I, New Delhi 110048</item>
+        <item>B-1/6, Janak Puri, Najafgarh Road, New Delhi-110058</item>
+        <item>A-3, Manak Vihar Ext., Near D.D.V Hospital, Tihar-110018</item>
+        <item>21 Community Centre, Preet Vihar,New Delhi-110092</item>
+        <item>A-1/7, Paschim Vihar, Main Rohtak Road, New Delhi-110063</item>
+        <item>F-3/15-16, Vijay Chowk, Krishan Nagar, New Delhi-110051</item>
+        <item>Plot No. 2, Sector 12, Dwarka-110075</item>
+        <item>Chandiwala Estate, Maa Anandmai Ashram Marg, Kalkaji-110058</item>
+        <item>3590 Bazar Sitaram Delhi, Near New Delhi Railway Station, Delhi-110006</item>
+        <item>A-1, New Friends Colony, Delhi-110065</item>
+        <item>1,Tughlakabad Institutional Area ,Mehrauli Badarpur Road, New Delhi-110062</item>
+        <item>B-128, Naraina Vihar, Near Fly Over, New Delhi-110092</item>
+        <item>D-2/ 48-49, Janakpuri,New Delhi-110058</item>
+        <item>CS/OCF-6, Jain Mandir Marg, Pocket 20/1, Sector 13, Rohini, New Delhi, Delhi 110085</item>
+        <item> No.307, 308, Ambica Vihar, Paschim Vihar, New Delhi, Delhi 110087</item>
+        <item>36, Uday Park, Khelgaon Marg, New Delhi-110049</item>
+        <item>No.U-1/78, Budh Vihar, New Delhi, Delhi-110086</item>
+        <item>E-5/35, Krishna Nagar, Burari, New Delhi, Delhi 110051</item>
+        <item>81, Defence Enclave (Opp. Preet Vihar), Vikas Marg, New Delhi-110092</item>
+        <item>B-5/24, Safdarjung Enclave, New Delhi-110016</item>
+        <item>4802/24, Bharat Ram Road,, Daryaganj, New Delhi, Delhi 110002</item>
+        <item>B/4, Saket, Opposite Gyanbharathi School, Near Malviya Nagar Metro Station, New Delhi, Delhi 110017</item>
+        <item>B-1 /1, N.E.A, Pusa Road, New Delhi, Delhi 110060</item>
+        <item>5 And 6, Vikas Marg Extension, Institutional Area, New Delhi, Delhi 110092</item>
+        <item>#3, Mandir Marg, Panchkuian Road, New Delhi, Delhi 110055</item>
+        <item>176, Jagriti Enclave Extension, Vikas Marg, New Delhi, Delhi 110092</item>
+        <item>1 And 2, Press Enclave Road, Saket, New Delhi, Delhi 110017</item>
+        <item>Vasundhara Enclave, Dharamshila Road, Near New Ashok Nagar Metro Station, New Delhi, Delhi 110096</item>
+        <item>25, Raj Block, Navin Shahdara,, New Delhi, Delhi 110032</item>
+        <item>Central Golf Link Rd, Golf Links, New Delhi, Delhi 110003</item>
+        <item>711, Banda Bahadur Marg, Dr Mukherjee Nagar, Mukherjee Nagar, New Delhi, Delhi 110009</item>
+        <item>38 Golf Links, Archbishop Makarios Marg, Golf Links, New Delhi, Delhi 110003</item>
+        <item>B-162, East of Kailash, New Delhi, Delhi 110065</item>
+        <item>Okhla Road, New Delhi, Delhi 110025</item>
+        <item>859 to 870, Sector-1, Rohini, New Delhi, Delhi 110085</item>
+        <item>Sector B, Pocket 1, Aruna Asaf Ali Marg,Vasant Kunj, New Delhi, Delhi 110070</item>
+        <item>S-549, Greater Kailash Part II, New Delhi-110448</item>
+        <item>Saket Institutional Area, Saket, New Delhi, Delhi 110017</item>
+        <item>9/3, Gandhi Nagar Main Rd, Kailash Nagar, New Delhi, Delhi 110031</item>
+        <item>C - 2/394, Near Dabri More, On Main Pankha road, Pankha Rd, C-2 Block, Janakpuri, New Delhi, Delhi 110058</item>
+        <item>8, Agcr Enclave, Opposite Karkardooma Court, Laxmi Nagar, Laxmi Nagar New Delhi, Delhi 110092 India</item>
+        <item>1/10, East Patel Nagar, Opposite Metro No. 176, New Delhi, Delhi 110008</item>
+        <item>E 4/8, Krishna Nagar,Near Lajpat Rai Chowk, New Delhi, Delhi 110051</item>
+        <item>H-11-15, Arya Samaj Rd, Uttam Nagar, New Delhi, Delhi 110059</item>
+        <item>57, Najafgarh Rd, Raja Garden, New Delhi, Delhi 110015</item>
+        <item>2001-2, Banda Bahadur Marg, G.T.B Nagar, Outram Lines, New Delhi, Delhi 110009</item>
+        <item>Panchsheel Enclave, No. 7/5,, Sarva Priya Vihar, New Delhi, Delhi 110016</item>
+        <item>Plot B, Community Center, Basant Lok, Vasant Vihar, Near Priya Cinema And behind Vansanta Continental Hotel, New Delhi, Delhi 110057</item>
+        <item>C-2, Greater Kailash Enclave-11, Greater Kailash I, Greater Kailash I, New Delhi, Delhi 110048</item>
+        <item>Sarita Vihar, Delhi Mathura Road, New Delhi, Delhi 110076</item>
+        <item>B 1/4A, Najafgarh Road, Near Check Post, Metro Pillar 545, New Delhi, Delhi 110058</item>
+        <item>177-178,Jagriti Enclave, Vikas Marg, Vikas Enclave, New Delhi-110092</item>
+        <item>2, Institutional Area, Sector -III, Rohini, New Delhi, Delhi 110085</item>
+        <item>91, Patparganj Rd, Block A, Pratap Nagar, Mayur Vihar Phase 1, New Delhi, Delhi 110091</item>
+        <item> A/18, Gtb Chowk, Dilshad Garden, GTB Rd, Pocket B, Block B, Mcd Colony, Dilshad Garden, New Delhi, Delhi 110092</item>
+        <item>M-131, Vikas Puri, New Delhi-110018</item>
+        <item>67/1, New Rohtak Road, New Delhi, Delhi 110005</item>
+        <item>No. 2-B, Near Karol Bagh Metro Station, Pillar No. 107-108, Pusa Road, Sadhu Vasvani Marg, Rajender Nagar, New Delhi, Delhi 110005</item>
+        <item> 6/35, Gurudwara Road, West Extension Area, Karol Bagh, New Delhi, Delhi 110005</item>
+        <item>B 1/5, Main Najafgarh Road, Chatrapati Shivaji Marg, Block B1, Janakpuri, New Delhi, Delhi 110058</item>
+        <item>A5-6, Kirti Nagar, New Delhi-110015</item>
+        <item>11/396, Near Bus Stand, Sunder Vihar, Paschim Vihar, New Delhi, Delhi 110087</item>
+        <item>E-18, Naraina Vihar, Naraina, New Delhi, Delhi 110028</item>
+        <item>C- 15, C- Block Community Centre, Behind Janak Cinema, Janakpuri, New Delhi, Delhi 110058</item>
+        <item>Shop No. AH-11, Shaheed Udham Singh Marg, Block AH, Shalimar Bagh, New Delhi, Delhi 110088</item>
+        <item>B16, Main Road, Opp. Swarah Cinema, East Krishna Nagar, New Delhi, Delhi 110051</item>
+        <item>F-95, Bali Nagar, Main Najafgarh Road, Near Ramesh Nagar Metro Station, New Delhi, Delhi 110015</item>
+        <item>GN-5, Shivaji Enclave, F N G Sector, Raja Gardens, Rajouri Garden, New Delhi, Delhi 110027</item>
+        <item>7B, Pusa Road, New Delhi, Delhi 110005</item>
+        <item>Chanderlok Enclave, 9, Shyamji Krishna Varma Marg, Rishi Nagar, Pitampura, New Delhi, Delhi 110034</item>
+        <item>12, Chanderlok Enclave, Pitampura, New Delhi, Delhi 110034</item>
+        <item>No. C-1, Vishal Enclave, Rajouri Garden, New Delhi, Delhi 110027</item>
+        <item>AE-7, Shalimar Bagh, New Delhi, Delhi 110088</item>
+        <item>A-2/7, Pankha Road, Janak Puri, New Delhi, Delhi 110058</item>
+        <item>WZ-409-A, Janak Park, Hari Nagar, New Delhi, Delhi 110064</item>
+        <item>B-15, Swasthya Vihar, Vikas Marg, Swasthya Vihar, New Delhi, Delhi 110092</item>
+        <item>Rohtak Road, Punjabi Bagh West, New Delhi, Delhi 110026</item>
+        <item>No.J-12, Community Centre, Rajouri Garden, New Delhi, Delhi 110027</item>
+        <item>W 33, Greater Kailash Part-i, New Delhi, Delhi 110048</item>
+        <item>108 A, IP Extension, Patparganj, New Delhi, Delhi 110092</item>
+        <item>A-1, Priyadarshini Vihar, Laxmi Nagar, New Delhi, Delhi 110092</item>
+        <item>C-218, Nirman Vihar, Vikas Marg, Near Lagan Banquet Hall, New Delhi, Delhi 110092</item>
+        <item>Pankha Road,Block C1, Janakpuri, New Delhi, Delhi 110058</item>
+        <item>N 110, Panchsheel Park, New Delhi, Delhi 110017</item>
+        <item>HB Twin Tower, Near NSP Pitampura, Wazirpur District Centre, New Delhi, Delhi 110034</item>
+        <item>1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017</item>
+        <item>D 3/14, Vasant Vihar, New Delhi, Delhi 110057</item>
+        <item>14, Ring Rd, Lajpat Nagar 4, New Delhi, Delhi 110024</item>
+        <item>C-5, Green Park Extn., New Delhi, Delhi 110016</item>
+        <item>J-10, Krishna Nagar, Krishna Nagar, New Delhi, Delhi 110051</item>
+        <item>Lajpat Nagar-3, New Delhi-110024</item>
+        <item>49-50, Community Centre, East Of Kailash, Behind Sapna Cinema, New Delhi, Delhi 110065</item>
+        <item>No.90, Opp Hindi Park, Daryaganj, New Delhi, Delhi 110002</item>
+        <item>219/220, Gulabi Bagh, New Delhi, Delhi 110007</item>
+        <item>S-371, Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048</item>
+        <item>B- 15, Gurudwara road, Mother Diary IP Extension, Mandali, New Delhi, Delhi 110092</item>
+        <item>2979/3,Ranjit Nagar (South Patel Nagar), (Near Shiv Chowk) New Delhi-110008, New Delhi, Delhi 110008</item>
+        <item>B-65, Friends Colony(West), New Delhi-110065</item>
+        <item>Block A, Gujranwala Town, New Delhi, Delhi 110009</item>
+        <item>S-357, Panchshila Park, New Delhi, Delhi 110017</item>
+        <item>1616, Banda Bahadur Marg, Outram Lines, Mukherjee Nagar, New Delhi, Delhi 110033</item>
+        <item>487, Hardev Puri, Near Father Agnel School, Gautam Nagar, Delhi-110049</item>
+        <item>C-3/91-92, Janak Puri, New Delhi, Delhi 110058</item>
+        <item>Plot No.5, FC-29, Geetanjali Encalve, Near Malviya Nagar Metro Station Gate No.1, Malviya Nagar, New Delhi, Delhi 110017</item>
+        <item>C-3/63A, 64A,, Wazirabad Road, Yamuna Vihar, New Delhi, Delhi 110053</item>
+        <item>Keshopur Rd, New Chaukhandi, Vishnu Garden, New Delhi, Delhi 110018</item>
+        <item>E-190, Shalimar Bagh, New Delhi-110051</item>
+        <item>A-15 (Basement), Panchwati, Opposite New Azadpur Subzi Mandi Bus Stop,, New Delhi, Delhi 110033</item>
+        <item>235, Chaudhary Balbir Singh Marg, Avtar Enclave, Paschim Vihar, New Delhi, Delhi 110063</item>
+        <item>A-14/15, Pushpanjali, Vikas Marg Extn., New Delhi, Delhi 110092</item>
+        <item>Press Enclave Marg, Sheikh Sarai II, New Delhi, Delhi 110017</item>
+        <item>194-195, Deepali Chowk, Pitampura, New Delhi, Delhi 110034</item>
+        <item>F-12, Near Kailash Colony Metro Station, East Of Kailash, New Delhi, Delhi 110048</item>
+        <item>Sector 5, Near West Rohini Metro Station, Rohini, New Delhi, Delhi 110085</item>
+        <item>Plot No. 8, Patparganj Road, Pandav Nagar, New Delhi, Delhi 110092</item>
+        <item>B-33-34, Qutab Institutional Area, Katwaria Sarai, New Delhi, Delhi 110016</item>
+        <item>Hospital Rd, Bhogal, Jangpura, New Delhi, Delhi 110014</item>
+        <item>Sirfiton Road, New Delhi, Delhi 110024</item>
+        <item>18 Sham Nath Marg, Railway Colony, Civil Lines, New Delhi, Delhi 110054</item>
+        <item>C-130 Gautam Nagar ,Sadiq Nagar, Delhi-110049</item>
+        <item> Near Madhuban Chowk, Sector 14, Rohini, New Delhi, Delhi 110085</item>
+        <item>Road No. 41, Near Maduban Chowk, Gd-28,Pitampura, New Delhi-110034</item>
+        <item>126/105, Near Water Tank, Najafgarh-Nangloi Rd, Nangloi Extension, Nangloi, New Delhi, Delhi 110041</item>
+        <item>J-293, Saket, New Delhi, Delhi 110017</item>
+        <item>B-362, 363, 364, Meera Bagh, Paschim Vihar, Outer Ring Road, New Delhi, Delhi 110063</item>
+        <item>2, Institutional Area, Vikas Marg Extn, Near Metro Pillar No.- 116, Dayanand Vihar, Karkardooma, New Delhi, 110092</item>
+        <item>E-1, Panchsheel Garden, Naveen Shahdara,, New Delhi, Delhi 110032</item>
+        <item>Kailash Colony Rd, Block A, Block E, East of Kailash, New Delhi, Delhi 110048</item>
+        <item>67/1, New Rohtak Rd, Block 67, Karol Bagh, New Delhi, Delhi 110005</item>
+        <item>Main Road, Badli, Near Happy Medical Store, Badli, New Delhi, Delhi 110042</item>
+        <item>Plot No. B-25-26, 26-A, Swarn Cinema Road, East Krishna Nagar, Krishna Nagar, New Delhi, Delhi 110051</item>
+        <item>A-9, Kailash Colony, Near Metro Station, New Delhi, Delhi 110048</item>
+        <item>DD-15, Opp. Main Post Office, Kalkaji, New Delhi, Delhi 110019</item>
+        <item>D-Pocket 7, Mahavir Enclave, New Delhi</item>
+        <item>IP Extension, West Vinod Nagar, New Delhi, Delhi 110092</item>
+        <item>9/3, Gandhi Nagar Main Rd, Kailash Nagar, New Delhi, Delhi 110031</item>
+        <item>Rajinder Nagar, New Delhi, Delhi 110060</item>
+        <item>B-16, Qutab Institutional Area, near Qutab Hotel, New Delhi, Delhi 110016</item>
+        <item>Plot No.1, Gulshan Park, National Highway 10, Ratan Bagh, Mundka, New Delhi, Delhi 110041</item>
+        <item>Greater Kailash II, Greater Kailash, New Delhi, Delhi 110048</item>
+        <item>East of Kailash, Greater Kailash I, New Delhi, Delhi 110065</item>
+        <item>D-4 , Prashant Vihar, Outer Ringroad, Rohini, New Delhi-110085</item>
+        <item>A-4, Paschim Vihar, New Delhi, Delhi 110063</item>
+        <item>St. Stephens Hospital Marg, Tis Hazari, New Delhi, Delhi 110054</item>
+        <item>#1, Community Centre, Behind The Suryaa, New Friends Colony, New Delhi, Delhi 110065</item>
+        <item>Local Shopping Centre, Near R-Block, Greater Kailash-1, New Delhi, Delhi 110048</item>
+        <item>Phase 3, Ashok Vihar, New Delhi, Delhi 110052</item>
+        <item>S-52, Panchasheel Park, New Delhi, Delhi 110017</item>
+        <item>15/199, Geetanjali Marg, Block E, Malviya Nagar, New Delhi, Delhi 110017</item>
+        <item>RZ-13-I/6, Main Road, Raj Nagar I, Raj Nagar, New Delhi, Delhi 110077</item>
+        <item>383/11-c, East Azad Nagar, Krishna Nagar, East Azad Nagar, New Delhi, Delhi 110051</item>
+        <item>C-164, Anand Vihar, New Delhi, Delhi 110092</item>
+        <item>14, Gopal Nagar, Azadpur, New Delhi, Delhi 110018</item>
+        <item>#M-139, CR Park Road, Greater Kailash II, New Delhi, Delhi 110048</item>
+        <item>F-15, Vikas Marg, Preet Vihar, New Delhi, DL 110092</item>
+        <item>Asaf Ali Road, Indraprastha, New Delhi, Delhi 110006</item>
+        <item>2A, R.B.L Isher Das Sawhney Marg, Rajpur Road, New Delhi, Delhi 110054</item>
+        <item>C-10,Shivalik, Maharishi Dayanand Marg, Block A, Malviya Nagar, New Delhi, Delhi 110017</item>
+        <item>6, Near Karkari Mor Flyover, Gagan Vihar, New Delhi, Delhi 110051</item>
+        <item>Block 24, Ashok Nagar, New Delhi, Delhi 110018</item>
+        <item>D- 8, Krishna Nagar, Burari, New Delhi, Delhi 110051</item>
+        <item>B-100, Malviya Nagar, New Delhi, Delhi 110017</item>
+        <item>1/ 31, Phase II Road, Sheikh Sarai Institutional Area-II, New Delhi, Delhi 110017</item>
+        <item>No. 1, Institutional Area, Nehru Nagar, New Delhi, Delhi 110065</item>
+        <item>E-311, LGF, Before M Block Market, GK II, New Delhi 110048</item>
+        <item>12/27, West Patel Nagar, Near Arya Samaj Mandir, New Delhi, Delhi 110008</item>
+        <item>R-13, Greater Kailash, Part 1, Hans Raj Gupta Marg, Block R, Greater Kailash I, New Delhi, Delhi 110048</item>
+        <item>A-1/6, Rajouri Gardens, New Delhi 110027</item>
+    </string-array>
+
+    <string-array name="police_numbers">
+        <item>23274683</item>
+        <item>23233743</item>
+        <item>23318474</item>
+        <item>25786639</item>
+        <item>25735012</item>
+        <item>23537374</item>
+        <item>23271751</item>
+        <item>23522482</item>
+        <item>23524746</item>
+        <item>23521081</item>
+        <item>25725652</item>
+        <item>22472251</item>
+        <item>22253317</item>
+        <item>22150370</item>
+        <item>22159871</item>
+        <item>22219291</item>
+        <item>22242441</item>
+        <item>22212761</item>
+        <item>22213224</item>
+        <item>22208164</item>
+        <item>23361100/4331/4712</item>
+        <item>23366730, 23364100</item>
+        <item>23014878</item>
+        <item>23382100</item>
+        <item>22930633</item>
+        <item>22914421</item>
+        <item>22914632</item>
+        <item>27257418</item>
+        <item>22913161</item>
+        <item>27510100</item>
+        <item>27773611</item>
+        <item>23529707</item>
+        <item>23968730,23967889</item>
+        <item>23277918</item>
+        <item>23958234</item>
+        <item>23953442;22921740 </item>
+        <item>22262035</item>
+        <item>22261215</item>
+        <item>22261071</item>
+        <item>22284212</item>
+        <item>22280746</item>
+        <item>22280946</item>
+        <item>22281978</item>
+        <item>22283307</item>
+        <item>27202265</item>
+        <item>27280904</item>
+        <item>27497179</item>
+        <item>27215641</item>
+        <item>27045035</item>
+        <item>27242917</item>
+        <item>27015770</item>
+        <item>27181325</item>
+        <item>25472410</item>
+        <item>27272186</item>
+        <item>25474486</item>
+        <item>2723113</item>
+        <item>27247812</item>
+        <item>27459202</item>
+        <item>24624825</item>
+        <item>26912456</item>
+        <item>23830750</item>
+        <item>26415815,26429617</item>
+        <item>26461597;26410374</item>
+        <item>26980917</item>
+        <item>26439165,26430607</item>
+        <item>26944753,26944754</item>
+        <item>26818572,26816677</item>
+        <item>26863200</item>
+        <item>26867878</item>
+        <item>26461062</item>
+        <item>26253601</item>
+        <item>24620283</item>
+        <item>26152577</item>
+        <item>26882346</item>
+        <item>26165222</item>
+        <item>26892530</item>
+        <item>25792021</item>
+        <item>25140644</item>
+        <item>25781476</item>
+        <item>25537372</item>
+        <item>25016827</item>
+        <item>25555178</item>
+        <item>25693161</item>
+        <item>25742637</item>
+        <item>25734807</item>
+        <item>25938880</item>
+        <item>25409290</item>
+        <item>25553166</item>
+        <item>25592600,25551213</item>
+        <item>25435616</item>
+        <item>25583471</item>
+        <item>25471470</item>
+        <item>25448885</item>
+        <item>25408782</item>
+        <item>25190462</item>
+    </string-array>
+
+    <string-array name="police_stations">
+        <item>Daryaganj</item>
+        <item>Kamla Market</item>
+        <item>I.P. Estate</item>
+        <item>Karol Bagh</item>
+        <item>Rajinder Nagar</item>
+        <item>D.B. Gupta Rd</item>
+        <item>Chandni Mahal</item>
+        <item>Hauz Qazir</item>
+        <item>Pahar Ganj</item>
+        <item>Nabi Karim</item>
+        <item>Prasad Nagar</item>
+        <item>Kalyanpuri</item>
+        <item>Trilokpuri</item>
+        <item>Vivek Vihar</item>
+        <item>Anand Vihar</item>
+        <item>Preet Vihar</item>
+        <item>Shaker Pur</item>
+        <item>Gandhi Nagar</item>
+        <item>Krishna Nagar</item>
+        <item>Geeta Colony</item>
+        <item>Sansad Marg</item>
+        <item>Mandir Marg</item>
+        <item>Tughlaq Road</item>
+        <item>Tilak Marg</item>
+        <item>Civil Lines</item>
+        <item>Timarpur</item>
+        <item>Roop Nagar</item>
+        <item>Maurice Nagar</item>
+        <item>Subzi Mandi</item>
+        <item>Partap Nagar</item>
+        <item>Sarai Rohila</item>
+        <item>Bara Hindu Rao</item>
+        <item>Kashmiri Gate</item>
+        <item>Kotwali</item>
+        <item>Lahori Gate</item>
+        <item>Chandni Chowk    </item>
+        <item>Seelam Pur</item>
+        <item>Gokul Puri</item>
+        <item>Bhajanpura</item>
+        <item>Shahdara</item>
+        <item>Welcome Colony</item>
+        <item>Mansarovar Park</item>
+        <item>Seema Puri</item>
+        <item>Nand Nagari</item>
+        <item>Alipur</item>
+        <item>Narela</item>
+        <item>Shalimar Bagh</item>
+        <item>Jahangir puri</item>
+        <item>Rohini</item>
+        <item>Ashok Vihar</item>
+        <item>Rani Bagh</item>
+        <item>Keshav Puram</item>
+        <item>Sultanpuri</item>
+        <item>Mangolpuri</item>
+        <item>Kanjhawala</item>
+        <item>Mukherjee Nagar</item>
+        <item>Adarsh Nagar</item>
+        <item>Model Town</item>
+        <item>Kotla Mubarak Pur</item>
+        <item>Lajpat Nagar</item>
+        <item>Sri Nivas Puri</item>
+        <item>Greater Kailash</item>
+        <item>Chittaranjan Park</item>
+        <item>Ahmed Nagar</item>
+        <item>Kalkaji</item>
+        <item>Badarpur</item>
+        <item>Okhla Industrial Area</item>
+        <item>Mehrauli</item>
+        <item>Hauz Khas</item>
+        <item>Malviya Nagar</item>
+        <item>Defence Colony</item>
+        <item>Lodhi Colony</item>
+        <item>Vasant Vihar</item>
+        <item>Sarojini Nagar</item>
+        <item>R.K. Puram</item>
+        <item>Vasant Kunj</item>
+        <item>Naraina</item>
+        <item>Mayapuri</item>
+        <item>Inder Puri</item>
+        <item>Najafgarh</item>
+        <item>Jafferpur</item>
+        <item>Dabri</item>
+        <item>Delhi Cantt</item>
+        <item>Patel Nagar</item>
+        <item>Anand Parbat</item>
+        <item>Moti Nagar</item>
+        <item>Tilak Nagar</item>
+        <item>Janakpuri</item>
+        <item>Vikaspuri</item>
+        <item>Punjabi Bagh</item>
+        <item>Paschim Vihar</item>
+        <item>Nangloi</item>
+        <item>Rajouri Garden</item>
+        <item>Hari Nagar</item>
+        <item>Kirti Nagar</item>
+    </string-array>
+
+    <string-array name="distress">
+        <item>Delhi Commission for Women</item>
+        <item>Delhi Police Helplines</item>
+        <item>JAGORI</item>
+        <item>National Commission for Women</item>
+        <item>National Human Rights Commission</item>
+        <item>Rahi Foundation (support centre for women survivors of child sexual abuse)</item>
+    </string-array>
+
+    <string-array name="distress_phone">
+        <item>23379181/23370597</item>
+        <item>1091/ 1291/ 23317004</item>
+        <item>26692700</item>
+        <item>23237166/ 23234918</item>
+        <item>9810298900/ 23385368</item>
+        <item>26238466/ 26224042/ 26227647</item>
+    </string-array>
+
+    <string-array name="legal">
+        <item>Human Rights Law Network</item>
+        <item>Lawyer’s Collective (Womens Rights Initiative: runs a legal aid cell for domestic violence cases)</item>
+        <item>MARG (Multiple Action Research Group)</item>
+        <item>Pratidhi</item>
+    </string-array>
+
+    <string-array name="legal_phone">
+        <item>243745501/ 243746922</item>
+        <item>24373904/ 24372923</item>
+        <item>26497483 / 26496925</item>
+        <item>22527259</item>
+    </string-array>
+
+    <string-array name="shelter">
+        <item>Shakti Shalini</item>
+        <item>Aashray Adhikar Abhiyan</item>
+        <item>YWCA (hostel for working women)</item>
+        <item>Prabha Tara (hostel for working women)</item>
+    </string-array>
+
+    <string-array name="shelter_phone">
+        <item>24373737-39</item>
+        <item>22481609/ 9868122997</item>
+        <item>23362779/ 23362975/ 55367705</item>
+        <item>26170680</item>
+    </string-array>
+
+    <string-array name="counselling">
+        <item>Snehi</item>
+        <item>Sanjeevani</item>
+        <item>Swachetan</item>
+    </string-array>
+
+    <string-array name="counselling_phone">
+        <item>65978181</item>
+        <item>26862222/ 26864488</item>
+        <item>26123931/ 26135296/ 9810262767</item>
+    </string-array>
+
+    <string name="title_activity_data_list">DataListActivity</string>
+    <string name="title_activity_sqlite__database">SQLite_Database</string>
+    <string name="title_activity_contact__search">Contact_Search</string>
+    <string name="title_activity_contact__update">Contact_Update</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_newcontact">NewContactActivity</string>
+
+</resources>

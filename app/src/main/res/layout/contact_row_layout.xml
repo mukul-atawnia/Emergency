@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="40dp">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_user_name"
+        android:text="Here Name"
+        android:gravity="center"
+        android:textColor="#00695C"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_user_mob"
+        android:text="Here Mobile No"
+        android:gravity="center"
+        android:textColor="#00695C"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_user_email"
+        android:text="Here Email"
+        android:gravity="center"
+        android:textColor="#00695C"
+        />
+
+</LinearLayout>

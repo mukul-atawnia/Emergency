@@ -1,0 +1,90 @@
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#A74D4D"
+    tools:context="com.mukulatawnia.emergency2.SQLite_Database">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="My Personal Contacts"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#0D00FF"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="25dp"
+        android:text="ADD CONTACTS"
+        android:onClick="addNewContact"
+        android:background="#CF7F35"
+        android:id="@+id/addcon"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="15dp"
+        android:text="DELETE CONTACTS"
+        android:background="#CF7F35"
+        android:id="@+id/delcon"
+        android:onClick="searchContact"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="15dp"
+        android:text="SEARCH CONTACTS"
+        android:onClick="searchContact"
+        android:background="#CF7F35"
+        android:id="@+id/searchcon"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="15dp"
+        android:text="UPDATE CONTACTS"
+        android:background="#CF7F35"
+        android:id="@+id/upcon"
+        android:onClick="updateContact"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="15dp"
+        android:text="VIEW CONTACTS"
+        android:onClick="viewContact"
+        android:background="#CF7F35"
+        android:id="@+id/viewcon"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
